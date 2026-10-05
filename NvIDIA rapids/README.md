@@ -5,6 +5,7 @@ This project demonstrates GPU-accelerated data science in Google Colab using NVI
 ## Colab Notebook
 
 [Open the executed Google Colab notebook](https://colab.research.google.com/drive/1_uCxWMqQzYAtjqT0pWUAbrSiSFSyQNWz?usp=sharing)
+
 youtube video : https://youtu.be/UTmsyuwI3SQ
 
 ## Overview
