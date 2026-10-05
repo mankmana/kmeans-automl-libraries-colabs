@@ -7,6 +7,7 @@ This repository contains an executed Google Colab notebook demonstrating K-means
 Open the executed notebook in Google Colab:
 
 [01 - k-means colab.ipynb](https://colab.research.google.com/drive/1DR1h4DMnH5qtGfWX31mbrcXrmLH9Oh2_?usp=sharing)
+youtube Video : https://youtu.be/_DXfUvH6MpU
 
 The notebook is designed to run on a free Colab CPU. It uses built-in or generated datasets and does not require API keys for the main exercises.
 
