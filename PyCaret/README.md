@@ -6,7 +6,7 @@ This project demonstrates PyCaret's low-code machine-learning workflow across mu
 
 [Open the executed Google Colab notebook](https://colab.research.google.com/drive/1V9lPItGIPw6QwmKyiWY8mbGXUC-2YTba?usp=sharing)
 
-youtube link : https://youtu.be/NW9ew8R4XpI
+youtube link : [https://youtu.be/NW9ew8R4XpI](https://youtu.be/wzsAg2XsLz4)
 
 ## Overview
 
