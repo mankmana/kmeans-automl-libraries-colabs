@@ -6,6 +6,8 @@ This project demonstrates an end-to-end, low-code machine-learning workflow with
 
 [Open the executed Google Colab notebook](https://colab.research.google.com/drive/1SCx_T2qpI91BMSxf-8KzUnzf-60U6ODH?usp=sharing)
 
+youtube video : https://youtu.be/gg5zarxKe0k
+
 ## Overview
 
 The notebook follows the complete PyCaret lifecycle:
